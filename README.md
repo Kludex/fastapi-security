@@ -7,4 +7,14 @@ All the strategies are using a `dictionary` as database.
 We have:
 
 * [APIKey Header](api_key)
-* [Basic Auth](basic)
+* [HTTP Basic Authentication](basic)
+
+Missing:
+
+* HTTP Digest
+* HTTP Bearer
+* OAuth2 Implicit Flow
+* OAuth2 Client Credentials Flow
+* OAuth2 Authorization Code Flow
+* OAuth2 Password Flow
+* OpenID Connect
