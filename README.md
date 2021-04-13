@@ -11,7 +11,7 @@ We have:
 
 Missing:
 
-* HTTP Digest
+* HTTP Digest (I'm working on it [here](https://github.com/tiangolo/fastapi/pull/3071))
 * HTTP Bearer
 * OAuth2 Implicit Flow
 * OAuth2 Client Credentials Flow
