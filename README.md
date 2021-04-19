@@ -9,6 +9,7 @@ We have:
 * [APIKey Header](api_key)
 * [HTTP Basic](http_basic)
 * [HTTP Bearer](https://github.com/tiangolo/fastapi/blob/master/tests/test_security_http_bearer.py)
+* [OAuth2 Password Flow](oauth2_password)
 
 Missing:
 
@@ -20,5 +21,4 @@ Missing:
 * OAuth2 Client Credentials Flow
     - https://github.com/tiangolo/fastapi/issues/774
 * OAuth2 Authorization Code Flow
-* OAuth2 Password Flow
 * OpenID Connect
